@@ -3,8 +3,6 @@
 
 Discord recently added [Rich Presence](https://discordapp.com/developers/docs/rich-presence/best-practices) for game developers but it can also be used by regular users.
 
-![](https://i.imgur.com/p6WUZoi.png)
-
 ## Disclaimer
 I don't claim to be good at JavaScript and this code is probably not optimized.
 Feel free to contribute any optimization.
