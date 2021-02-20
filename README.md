@@ -21,7 +21,7 @@ Feel free to contribute any optimization.
 
 In a command prompt in your projects folder (wherever that may be) run the following:
 
-`git clone https://github.com/IndyV/Rich-Presence-Template.git`
+`git clone https://github.com/Kn0b632/discordrpc`
 
 Once finished: 
 
@@ -85,7 +85,7 @@ To start the Rich Presence, in the command prompt, run the following command:
 
 > If it doesn't set immediately please wait for it to refresh (if set) or just re-node `app.js`
 
-If you need help or have questions add `Indy#6602` on Discord.
+If you need help or have questions add `Kn0b#3301` on Discord.
 
 ## Release History
 
