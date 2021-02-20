@@ -1,0 +1,20 @@
+{
+    "Client_Id": "385188316523266052",
+
+    "Rich_Presence":{
+        "details": "0",
+        "state": "1",
+        "username": "2",
+        "file_username": "3",
+        "bannername": "4",
+        "file_bannername": "5",
+        "maxpartysize": 6,
+        "countdown_start": 7,
+        "Refresh": 8,
+        "Refresh_time": 9
+    },
+    
+    "Dont_Touch":{
+        "updatecounter": 0
+    }
+}
